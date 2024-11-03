@@ -1,10 +1,10 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. YOUR-PROGRAM-NAME.
+       PROGRAM-ID. PROGRAMA03.
       *=======================================================
       *== AUTOR: JHONATA                 EMPRESA:XPTO
       *== OBJETIVO: VARIAVEL COM CASA DECIMAL
       *== DATA: XX/XX/20XX
-      *== OBSERVAÇÕES:
+      *== OBSERVAÃ‡Ã•ES:
        ENVIRONMENT                   DIVISION.
        CONFIGURATION                 SECTION.
        SPECIAL-NAMES.
