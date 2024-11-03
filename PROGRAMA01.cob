@@ -1,10 +1,10 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. PROGRAMA01.
+       PROGRAM-ID. YOUR-PROGRAM-NAME.
       *=======================================================
       *== AUTOR: JHONATA                 EMPRESA:XPTO
       *== OBJETIVO: CONTATO COM COBOL
       *== DATA: XX/XX/20XX
-      *== OBSERVAÃ‡Ã•ES:
+      *== OBSERVAÇÕES:
        ENVIRONMENT                   DIVISION.
        CONFIGURATION                 SECTION.
        SPECIAL-NAMES.
@@ -33,4 +33,4 @@
            DISPLAY "IDADE " WRK-IDADE.
            DISPLAY "SALARIO " WRK-SALARIO-ED.
        0300-FINALIZAR                SECTION.
-           STOP RUN.
+            STOP RUN.
