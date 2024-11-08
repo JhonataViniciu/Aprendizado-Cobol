@@ -1,10 +1,10 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. YOUR-PROGRAM-NAME.
+       PROGRAM-ID. PROGRAMA11.
       *=======================================================
       *== AUTOR: JHONATA                 EMPRESA:XPTO
       *== OBJETIVO: CALCULO DO FRETE USANDO EVALUATE
       *== DATA: XX/XX/20XX
-      *== OBSERVAÇÕES:
+      *== OBSERVAÃ‡Ã•ES:
        ENVIRONMENT                   DIVISION.
        CONFIGURATION                 SECTION.
        SPECIAL-NAMES.
@@ -19,7 +19,7 @@
        77  WRK-VALOR   PIC 9(08)99 VALUE ZEROS.
        77  WRK-FRETE   PIC 9(08)99 VALUE ZEROS.
 
-      *==================== VARIAVEIS DE EDIÇÃO =============
+      *==================== VARIAVEIS DE EDIÃ‡ÃƒO =============
        77  WRK-VALOR-ED   PIC ZZ.ZZZ.ZZ9,99.
        77  WRK-FRETE-ED   PIC ZZ.ZZZ.ZZ9,99.
 
